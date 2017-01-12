@@ -1,0 +1,12 @@
+.signupArea h2{
+    padding: 0 0 20px 0;
+}
+
+.signupArea p{
+    color: #666666;
+    font-size: 16px;
+}
+
+#paypalDiv{
+    margin: 5px 0 0 25px;
+}
